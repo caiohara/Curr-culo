@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #000000;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
+
+section {
+    background: #fff;
+    margin: 1rem auto;
+    padding: 1rem;
+    max-width: 800px;
+    border-radius: 8px;
+}
+
+.foto {
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+
+h2 {
+    border-bottom: 2px solid #000;
+    padding-bottom: 0.5rem;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    padding: 0.5rem 0;
+}
+
+
